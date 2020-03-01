@@ -1,11 +1,11 @@
 
 POST http://localhost:3003/api/blogs
 Content-Type: application/json
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNmZHNkcyIsImlkIjoiNWUzNWM0NzJhOGEwYWIwZTUwNjAyYzE2IiwiaWF0IjoxNTgwNjg3NTk2fQ.1jFADvkdLyKsMdz6QyPTNq5vwXFR624B8t5mUbpEIaI
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ikphbm5lIiwiaWQiOiI1ZTUyYzY2MzlkNzI1ODNjMjQ0ZDVjNTMiLCJpYXQiOjE1ODI3NDIyMDR9.CH2l8ZBPBxohWLloEp8i1NhuyCF8WTP7wc7WzxSvG5Q
 
 {
-  "title": "dfhf",
-  "author": "gfds",
-  "url": "gsdf",
+  "title": "testiblogi5",
+  "author": "author",
+  "url": "url",
   "likes": 0
 }
